@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+
+*.pth
+
+.idea/
+
+Robust-Semantic-Segmentation/model/
+Robust-Semantic-Segmentation/weights/
+
+model/
